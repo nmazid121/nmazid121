@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nabhan Mazid</h1>
-<h3 align="center">CS @ Rutgers University</h3>
+<h3 align="center">CS Student at Rutgers University</h3>
 
 - 🔭 I’m currently working on [Aras Hot Chicken Website](https://github.com/nmazid121/aras-hot-chicken-React)
 
 - 🌱 I’m currently learning **React, Python and Java**
 
-- 📫 How to reach me **nmazid121@gmail.com**
+- 📫 How to reach me **nmazid121@gmail.com** or **nm1088@scarletmail.rutgers.edu**
 
 - 📄 Resume : [https://docs.google.com/document/d/1vfUZqOjPnFHaK5XXzUpvCDwzxD1fo_qd_0cQrE9gryQ/edit?usp=sharing](https://docs.google.com/document/d/1vfUZqOjPnFHaK5XXzUpvCDwzxD1fo_qd_0cQrE9gryQ/edit?usp=sharing)
 
