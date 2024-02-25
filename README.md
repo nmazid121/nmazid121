@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabhan Mazid</h1>
-<h3 align="center">CS Student at Rutgers University</h3>
+<h3 align="center">CS Student at Rutgers University - Graduating 2026</h3>
 
 - 🔭 I’m currently working on [Aras Hot Chicken Website](https://github.com/nmazid121/aras-hot-chicken-React)
 
