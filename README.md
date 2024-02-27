@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nmazid121@gmail.com** or **nm1088@scarletmail.rutgers.edu**
 
-- 📄 Resume : [https://docs.google.com/document/d/1vfUZqOjPnFHaK5XXzUpvCDwzxD1fo_qd_0cQrE9gryQ/edit?usp=sharing](https://docs.google.com/document/d/1vfUZqOjPnFHaK5XXzUpvCDwzxD1fo_qd_0cQrE9gryQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
